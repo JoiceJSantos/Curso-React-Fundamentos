@@ -1,0 +1,30 @@
+.App .Cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tabela{
+    display: flex;
+    justify-content: center;
+}
+
+.tabela table{
+    border-color: white;
+    justify-content: center;
+    width: 90%;
+    text-align: left;
+
+}
+.tabela tr{
+    text-align: center;
+}
+.tabela th{
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.tabela .Par{
+    background-color: thistle;
+}
